@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78225ec1-cbcf-4951-bd9a-5ffe18a647da" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/classes/java/main/agh/ii/prinjava/lab00/lst00_01/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/classes/java/main/agh/ii/prinjava/lab00/lst00_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/classes/java/test/agh/ii/prinjava/lab00/lst00_01/CalcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/classes/agh.ii.prinjava.lab00.lst00_01.CalcTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/reports/tests/test/packages/agh.ii.prinjava.lab00.lst00_01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/test-results/test/TEST-agh.ii.prinjava.lab00.lst00_01.CalcTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab00/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/exc02_01/StackOfInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/exc02_01/impl/ArrayBasedImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/exc02_01/impl/LinkedListBasedImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/exc02_01/impl/StackOfIntsFtry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/main/java/agh/ii/prinjava/lab02/lst02_11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/test/java/agh/ii/prinjava/lab02/exc02_01/impl/ArrayBasedImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab02/src/test/java/agh/ii/prinjava/lab02/exc02_01/impl/LinkedListBasedImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="programming-in-java" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zpMypRa6rQWlTBXokhk6LoWTUg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="agh.ii.prinjava.lab00.lst00_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.DLinkListTest.addLast">
+    <configuration name="DLinkListTest.addLast" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;agh.ii.prinjava.proj1.impl.DLinkListTest.addLast&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":proj1:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DLinkListTest.addfirst" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;agh.ii.prinjava.proj1.impl.DLinkListTest.addfirst&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":proj1:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DLinkListTest.addLast" />
+        <item itemvalue="Gradle.DLinkListTest.addfirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78225ec1-cbcf-4951-bd9a-5ffe18a647da" name="Changes" comment="" />
+      <created>1634840833132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634840833132</updated>
+      <workItem from="1634840834835" duration="10973000" />
+      <workItem from="1634853303457" duration="2271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
