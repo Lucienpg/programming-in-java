@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="agh.ii.prinjava.proj1.impl.DLinkListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T22:31:56" hostname="LAPTOP-U7DALQA9" time="0.02">
-  <properties/>
-  <testcase name="addLast()" classname="agh.ii.prinjava.proj1.impl.DLinkListTest" time="0.02"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

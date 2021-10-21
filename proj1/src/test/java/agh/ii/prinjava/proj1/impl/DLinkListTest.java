@@ -27,6 +27,13 @@ class DLinkListTest {
         dLinkList.addLast(32);
         Assertions.assertEquals(32, dLinkList.returnlast());
     }
+
+    @Test
+    void removelast(){
+        dLinkList.removeLast();
+        Assertions.assertEquals(1, dLinkList.returnlast());
+
+    }
     @AfterEach
     void tearDown() {
 

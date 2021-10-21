@@ -5,7 +5,7 @@ import agh.ii.prinjava.proj1.impl.MyQueueDLLBImpl;
 public interface MyQueue<E> {
     void enqueue(E x);
 
-    E dequeue();
+    void dequeue();
 
     default boolean isEmpty() {
         return numOfElems() == 0;

@@ -68,7 +68,7 @@ public class DLinkList<E> {
      */
 
 
-    public void removeFirst() {
+    public void removeFirst(){
 
         if (head == null) { throw new IllegalStateException("THE LIST IS EMPTY "); }
         else if (head.next == null) {
@@ -79,18 +79,26 @@ public class DLinkList<E> {
         }
     }
 
+    /**
+     * if the list is empty the head is becomming null
+     * otherwise we search when tDelette is becomming null
+     */
     public void removeLast(){
         Node<E> tDelette = head;
         if (head == null || head.next == null){
             head=null;
         }
-        while (tDelette.next != null){
+        while (tDelette.next.next != null){
             tDelette = tDelette.next;
         }
         tDelette.next = null;
-
     }
 
+    /**
+     * we want to display the caracters in the list we create
+     *
+     * @return
+     */
     @Override
     public String toString() {
         Node<E> el = head;
@@ -100,6 +108,21 @@ public class DLinkList<E> {
             el = el.next;
         }
         return ("}");
+    }
+
+
+    public int numofelement(){
+        Node<E> a = head;
+        int c= 0;
+        if (head == null){
+            return c;
+        }
+        else{
+            while( a.next!=null){
+                c++;
+            }
+        }
+        return c+1;
     }
 
 }
