@@ -14,11 +14,18 @@ class MyQueueDLLBImplTest {
     @BeforeEach
     void setUp() {
         queueOfInts.enqueue(4);
+        queueOfInts.enqueue(34);
     }
 
     @Test
     void TestEnqueue(){
         Assertions.assertEquals(4,queueOfInts.peek());
+    }
+
+    @Test
+    void testDequeu(){
+        queueOfInts.dequeue();
+        Assertions.assertEquals(34, queueOfInts.returnFisrtQ());
     }
 
     @AfterEach

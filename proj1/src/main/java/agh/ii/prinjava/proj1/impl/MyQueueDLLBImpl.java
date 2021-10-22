@@ -2,8 +2,12 @@ package agh.ii.prinjava.proj1.impl;
 
 import agh.ii.prinjava.proj1.MyQueue;
 
+
+
 public class MyQueueDLLBImpl<E> implements MyQueue<E> {
+
     private DLinkList<E> elems;
+
     public MyQueueDLLBImpl(){this.elems = new DLinkList<>();}
 
     @Override
@@ -17,4 +21,7 @@ public class MyQueueDLLBImpl<E> implements MyQueue<E> {
 
     @Override
     public E peek(){ return elems.returnlast();}
+
+    @Override
+    public E returnFirstQ(){return elems.returnFirst();}
 }

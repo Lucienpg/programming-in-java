@@ -4,6 +4,7 @@ import agh.ii.prinjava.proj1.impl.MyQueueDLLBImpl;
 
 public interface MyQueue<E> {
     void enqueue(E x);
+    E returnFisrtQ();
 
     void dequeue();
 

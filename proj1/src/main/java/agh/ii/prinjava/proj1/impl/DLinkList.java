@@ -19,7 +19,7 @@ public class DLinkList<E> {
 
 
     /**
-     * here we create a new node and we link him with the ancient head
+     * here we create a new node and we link it with the ancient head
      * we set the new node as head
      * @param elem
      */
